@@ -1,0 +1,12 @@
+div, header, footer, nav, aside, section {
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+nav.navbar.navbar-primary {
+    margin-bottom: 0px;
+}
+
+
+
