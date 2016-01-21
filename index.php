@@ -10,7 +10,7 @@ and open the template in the editor.
         <title>CareerSearch version 2.0</title>
     </head>
     <body>
-        <h1>CareerSearch version 2.0</h1>
+        <h1>CareerSearch version 2.0 #2</h1>
         <?php
           echo "New Career Search"
         ?>
